@@ -1,11 +1,11 @@
-
+﻿
 # Unix-Linux-Archive
 Unix/Linux Archive
 
 This is a list of BTFS links to archived Unix and Linux ISO images.
 
 
-# **FreeBSD**
+# FreeBSD
 
     http://gateway.btfs.io/btfs/QmVkBXuuWek6eoABWFB1TNyFQLkEg3MWXzfh2krpKDTM9F FreeBSD/ISO-IMAGES/11.2/FreeBSD-11.2-RELEASE-amd64-bootonly.iso
     http://gateway.btfs.io/btfs/Qma8tZEuXcm2mGN5bCK28tRpyx2HV1G1ff2G6AG1Pt5UbA FreeBSD/ISO-IMAGES/11.2/FreeBSD-11.2-RELEASE-amd64-disc1.iso
@@ -47,7 +47,7 @@ This is a list of BTFS links to archived Unix and Linux ISO images.
 
 
 
-# **Linux Mint:**
+# Linux Mint:
 
     http://gateway.btfs.io/btfs/QmUnjQB31e6cJaNUSdDANKVQ6A6Qyi2CfYkcJ4MHf6bbY7 LinuxMint/stable/10/linuxmint-10-gnome-cd-amd64.iso
     http://gateway.btfs.io/btfs/Qmbf55Bn5xmnsxCBKnLmcNgXv4kmjwLEjKnyo51r3HGWxb LinuxMint/stable/10/linuxmint-10-gnome-cd-i386.iso
@@ -319,10 +319,230 @@ This is a list of BTFS links to archived Unix and Linux ISO images.
     http://gateway.btfs.io/btfs/QmfRY2C4esK5cpTNJsAtRxWWt5HJmu41HysnYTNr51RvLk LinuxMint/stable
     http://gateway.btfs.io/btfs/QmPBerayoA5bWHWA5CASptuvn3iG3mvGmUTcenVarChaNw LinuxMint
 
+#  Ubuntu
+
+    https://gateway.btfs.io/btfs/QmXvWmssch45YoP9Hytw3W43vfgTckkv2cL4Cj51KQpKjR ubuntu-10.04-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmcQvg66bnN2bZUSvegdNhzKnGmf8b9vPUnK55m2NAeyBe ubuntu-10.04-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmNxb9CidSvmQRUDasRY7d4pCFG3y4A1idGnE5hTPHdyih ubuntu-10.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmRtu779ZqqvDVXALVstyGZFxNpW8a4FX7kjwN5YAVEhxE ubuntu-10.04-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmU5vf6nAUNFbC8YQakiGRH6E7hyA8ov4j6zE98cac56BR ubuntu-10.04-netbook-i386.iso
+    https://gateway.btfs.io/btfs/QmfFNeNqsNCqWuUTS4tQ4yuafQGGGupsbBcDpP3JSTLAwY ubuntu-10.04-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmTbxDTjm3CzeCt4LXdUfqK7ZcFsQbPc1Uq8t1BXshTCdm ubuntu-10.04-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZ7xUAK6Xs9dHkxKcrtL1Z6mF8d7QWqm1i2K87iVzTi2u ubuntu-10.04.1-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmeRqniAmgdC3iXMmiCLQqszuT8KoeCbTxuarhAFQ1T78y ubuntu-10.04.1-alternate-i386.iso
+    https://gateway.btfs.io/btfs/Qmeczt7Vs3vcShyyEYJNG74wGLorcbQ7Fugtnuh2a8mxmA ubuntu-10.04.1-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmaSeuCpZUEcgeVoAUvPLMUZucHH4J9uggvaXKNLzgtwBN ubuntu-10.04.1-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmQx2gMr2XwgXoUAZKrGpXRZh1Y28FkvLY7PQGoj4ABwvg ubuntu-10.04.1-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmajWV3nr4RS8A468aUA8Grh18ETTmKxJXUDd6iYp8i9y5 ubuntu-10.04.1-server-i386.iso
+    https://gateway.btfs.io/btfs/QmS2sb9x1RfmmCa8QjsT3T6RyUu2YycRxNfsp7F9phd9kv ubuntu-10.04.2-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmPW6EZBHaYp8e5tUvhm3MhuYBoTqjSrzV3tD98aNoa9S2 ubuntu-10.04.2-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmNWkXFuK354Q78MEZfwUrEuKJMVaKBsCrFxVHH18oJZbF ubuntu-10.04.2-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmcznrV9di3Um4gNFD5R2MPXXQKhMsctN3FQKpwvXfLWZt ubuntu-10.04.2-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmekHwHzYq3jqynfyR67Ca4cL8acUnFu3FFvH57jujTvCi ubuntu-10.04.2-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQ2pdjXaUZ9z6hZWWAxJsByajFSRwNEtgB7zit9Mek2Lz ubuntu-10.04.2-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZ4y3jm2rwmsKmQPvPxXE2mQrex368Cy74QmF3dc4sXfG ubuntu-10.04.3-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmdJTP52HxMMxjnXwHkE4vruC6ckauhjywRSrv7hHq6YPV ubuntu-10.04.3-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmfWfDEjVixnBcjC4Z1N4k5tzwe588WwYMWydmeN24GxZW ubuntu-10.04.3-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmdPgRejEvuvkAPMjwcwvkxTtcwKKyNUz4FEbyzVLCmMcL ubuntu-10.04.3-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmV5XP1EEumRvU8EELFwd6o77n2whg4BuePtX6NaVHf6Hf ubuntu-10.04.3-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQhb45ixWDKJBBZrySwTP7scdQgWdiFk3VTCGTaJntQBo ubuntu-10.04.3-server-i386.iso
+    https://gateway.btfs.io/btfs/QmV2TfWwhv9JoXQycgbVHPDvSSSZeubeVZSAGdre4Pr6Eb ubuntu-10.04.4-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmdxzEswMxCBXMQm6iFmiVZNSMG2FAi8sUSc9RH61PKaNK ubuntu-10.04.4-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmNZs4U5aSUCWuJnCnp3zfchPapLJUANXAiC6DVx7CvKpe ubuntu-10.04.4-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmPTrpY2kPz3kdpTTNnVva7Ai52SbSV3u9SQkGwDZg42Cf ubuntu-10.04.4-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmYF8jCTYBTrpCbVH3UXxp1phRFaPc14txvZeW1JJ7Xaar ubuntu-10.04.4-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQgKD8xJnLvumgt7yQwYhtvzx8LcV2tTe3qTkCM8aLDdB ubuntu-10.04.4-server-i386.iso
+    https://gateway.btfs.io/btfs/Qmeka7zLiP7YMKnJrocqocuLST8s83khAGRPMw1afR1H4e ubuntu-10.10-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmauJvUsKH2VTgjHkW3fPkW8s23HKfftKsdd2PEyeEeLbG ubuntu-10.10-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmcN5U3zpK4viPgYXWhdGrqenp7iDtREX5Z92EyzKRVt2f ubuntu-10.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmQmQq2beu7bpHA4kEKG98pZxf7unwwpLzobQgnUeXDffC ubuntu-10.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmYTF4u69fHQkqaaPWkbZe4JZqxR4DKX8gRipPkSEVM8cW ubuntu-10.10-netbook-i386.iso
+    https://gateway.btfs.io/btfs/QmcKhtQbe4xjb4dGckpiLyVXBHQJSL9j9rMf8mKbZUhP7w ubuntu-10.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmeEcKKp9SJsXgpVLHdnckDUNBdXkNpRvwK8sSB9LzpZ8j ubuntu-10.10-server-i386.iso
+    https://gateway.btfs.io/btfs/QmPcyK129yYFvPSmb2Zc9QWxP4PScyszjXLtiZ9iCkyGu7 ubuntu-11.04-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmS6Reodxhz1iu6rK6seUMbChyzdSXPfD7YwDVDSiQjyp6 ubuntu-11.04-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmeC48XAFMHH5j5wNUaXZeX3TSZ6ySxJ2LYg9m3v3XCmNQ ubuntu-11.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmRtjHPoYfCjvcFRod7MDzphghURdbCqBkbfpXyH2YRqjM ubuntu-11.04-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmfD9s5955oaCDWP88FFNEoPkAuwrBEC214VYWmcbs9Yyu ubuntu-11.04-server-amd64.iso
+    https://gateway.btfs.io/btfs/Qmb6LzWFjYXBYxbhefapz1ZK9Y8sZ3Tv5JANwpaSKQTnRX ubuntu-11.04-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZ3zEnduokLMabT496wz8ourUu1ZfzwJUXFAUtVF4yjxP ubuntu-11.10-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmSkAtauTb3FiJcfcPt8hSqStm1fmQpuSu5FAobjwwfRYB ubuntu-11.10-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmUiJdS7Y3RsnWnJTqsHLzS1so7UueGHCQxMotEawXMmGp ubuntu-11.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmQ3oBckLwGCRf2gsRQsdMSPdo9BSLxpTeugcjiSjMkLod ubuntu-11.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmWuVo2MzYQqgJWHDHTu8cph68pmh9uAj5DTsBPGxsLX14 ubuntu-11.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmbnELHaNvKbuT67Sxx96rQf2DniBr8r2C4FxvHU7uDHjT ubuntu-11.10-server-i386.iso
+    https://gateway.btfs.io/btfs/QmfKBMVj5SfPwadTKP2mQp5r1MDBkGNC92r9PiiC84Yi73 ubuntu-12.04-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmR9vAj52aPrddXYJEibyfdupTJ5qj75F5Xq7cA3v4eP1H ubuntu-12.04-alternate-i386.iso
+    https://gateway.btfs.io/btfs/Qmew9RJY3dETsdw921JaZUrZcUPwy9JzBUNEUhp5tZD75p ubuntu-12.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmSyEbPGMxhsLHJitg9w2fkwmRPZVXLNgPwfHEM8JjDsT3 ubuntu-12.04-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmUY9Sp5awrRb1LiW9UBaf81nUMX6uKXbpf68tUHmRPd3n ubuntu-12.04-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmarAm2i8eW3PAX7RhDFibH1CBpjz3Cn6dwFmkDZko4gCa ubuntu-12.04-server-i386.iso
+    https://gateway.btfs.io/btfs/QmQvwUYY3WPeRU1vVsUKCGUBd19w6AfCkw3EYDXZ9ftHWz ubuntu-12.04.1-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmRpjohryLAneL3uJP7RJ9Bzqj34rDh5HGHLc6FDVzaqCY ubuntu-12.04.1-alternate-i386.iso
+    https://gateway.btfs.io/btfs/Qma2YKn7UBNFQSSHGfUjCLkQUBj6FKME6EWGKE1vPBHBfh ubuntu-12.04.1-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmfRkvaZ4uxDdopFfynmRqa9wkGjvPNbNJSCAeMm8bZaUc ubuntu-12.04.1-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmeZGcEwqcxmZbaRa2rtXxTVeUDbPcS91J5zqdYGHcijC6 ubuntu-12.04.1-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmRe8nJkHZEMfJBTRyxDKh6Gu6UwDYeucRCWRRttJ4N7xP ubuntu-12.04.1-server-i386.iso
+    https://gateway.btfs.io/btfs/QmeV7wE2itgx9sUCAz9aYAQuU3377k5YBL1wfTTMw5nAeX ubuntu-12.04.2-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmV7L1SabaMjJqCXTpZ9smt6Lwhrh7J4FGLqibaX3uUPfC ubuntu-12.04.2-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmSkoZLfbDpKDfJ1a2YLfTWwted2qY3ZChitPTvHjkF5LH ubuntu-12.04.2-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmU43EYexU9BuGuy7CmbMUu9zBtRMiS86pbFDHUhD6oHvZ ubuntu-12.04.2-desktop-i386.iso
+    https://gateway.btfs.io/btfs/Qmd8SdHCPYqmaqhVhBWQVnK2AufpFeZWkmgFgmbFDArGgP ubuntu-12.04.2-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQWM4Mfqpy4b4HuViMMvSu7H28onf6FQjnDAw9K4Dfrut ubuntu-12.04.2-server-i386.iso
+    https://gateway.btfs.io/btfs/QmXXTZQWuq4BQq1xhpWqstGPofQU8axZ6r7vwFgzFgQsg1 ubuntu-12.04.3-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmXfDXez5ZJNd1U9gc4DhVabgCdGjvdqQSH891X5aG3X6t ubuntu-12.04.3-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmPDarbF8PM1jgSz1UrBy8FwaLwBVUX1hAy2VgjPs4xJ6c ubuntu-12.04.3-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmaFu9i9zd2Z29EwhsGVxEbGU4vsh2sMR2yUnGVqkNfh5A ubuntu-12.04.3-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmQTn6PSqkboQNMgEfPMWCJue4Mvp2r5PkNrpJBAMUy9mQ ubuntu-12.04.3-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQZNSTpvr4DZFRXTe9HZLi5iW7BT74erJA8W7frKzm7jC ubuntu-12.04.3-server-i386.iso
+    https://gateway.btfs.io/btfs/QmVEENzYC4b1BkCYrw6H7rWWSuJrXmucrddmqXY3yptxjF ubuntu-12.04.4-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmScG5JN2aYcjZt1TMSybKU3wLx7d86P34J32MrtgAkqUa ubuntu-12.04.4-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmeQn5VtPN2vLkdLCnc5VoMGvfs5BFCK2GienWktzxf55B ubuntu-12.04.4-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmUXXR4YGUtFtWbWi1jN4bDw87BgfAwqd7rz39m5KdueKq ubuntu-12.04.4-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmcARF1YgAxBpbKVer47A2uddd3e6ziNMNWDjRX9XkRpmc ubuntu-12.04.4-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmSYmJn3Kp6sUdTNWNs9rnpHZsWsHoXweFWNWDPS9tFmt9 ubuntu-12.04.4-server-i386.iso
+    https://gateway.btfs.io/btfs/QmNRcdWyPSwsSThb652ACwAfSAVU6RaynhtV6JerbUbPUz ubuntu-12.04.5-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmaSbZNPeSUieHVvbeLPYJmG8wg8j8CUSxbCK6tTPom3Br ubuntu-12.04.5-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmQWjevoRLDhgoHGmaqMkRgBk4D187KaSLcaXQrVynQqDK ubuntu-12.04.5-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmRNTDmTjR5pSLaQDE1Q35UyJZEtV9NnueDWbfj53gBUDH ubuntu-12.04.5-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmZsBSUZfoTeyeVwmr6Ggh3CWYheCLaAMnJ7Z77RYB29q2 ubuntu-12.04.5-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmYUe2m2JB5vA1Pqq3PFakBJnCt2KcYKoXuTHmQ15bgNpw ubuntu-12.04.5-server-i386.iso
+    https://gateway.btfs.io/btfs/QmaSpACHdniDWAasSCDmYXZZCoGMBXwjimsvhZWLvk1Lx5 ubuntu-12.10-desktop-amd64+mac.iso
+    https://gateway.btfs.io/btfs/QmRe2rbiBqDtV2bagqopkdnSRF12BP6fbbThtFYJHUWcDw ubuntu-12.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmTaEfaLwxWfymRSPyMqMqwFSbJXo3bym16BU1XNkZiA3f ubuntu-12.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmUoQA3FUdMrYUifTJWTorQbCJijBAjFrStAevnuUGczgM ubuntu-12.10-server-amd64+mac.iso
+    https://gateway.btfs.io/btfs/QmakHihJnnviH6f3GtnR93M8qnkECejGhXNxyWZtaGb3Un ubuntu-12.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQ1MmYxU7a4jfBhamS8my16x26fWCCc6YA34VG9mM2qxy ubuntu-12.10-server-i386.iso
+    https://gateway.btfs.io/btfs/Qma8RN6sbgY3dTmFrwQhVufcYw3KR8oJUvV7rRXJskXr3A ubuntu-13.04-desktop-amd64+mac.iso
+    https://gateway.btfs.io/btfs/QmYneVtuU7Q6d1CtRdTjdgEQmiyk4cyMgRRdmaQ47gR8Ey ubuntu-13.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmTHG6YEdYXCDSgMTXAM1qRZK1ZnY56qoDLt74P6E1fN21 ubuntu-13.04-desktop-i386.iso
+    https://gateway.btfs.io/btfs/Qme1mBF5hD2F7AvhfW6uZo5o3W36nkmgvQhqRbRN1ydFLn ubuntu-13.04-server-amd64+mac.iso
+    https://gateway.btfs.io/btfs/QmaPVmKQxav7LK32PJxMAWM9hpdGMe3nu82SqtKysxWF8A ubuntu-13.04-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmYQLzEohy27SDAhWwdrT9kQQwA2yJq4FDyrfyGvsFY72N ubuntu-13.04-server-i386.iso
+    https://gateway.btfs.io/btfs/QmU9mfYpTk6Fwt1PpfJwTBmqGqPGZVjKAWaM2BpPTSaVna ubuntu-13.10-desktop-amd64+mac.iso
+    https://gateway.btfs.io/btfs/QmY25Tgv7v1P2nFB4fiv4RVz78VjaPKM8o7f3cEZ3ysTpp ubuntu-13.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmTESVvN8j1Lr1SjksVDuCGSyw4kmyL8Y7QAZAehZ4XLdB ubuntu-13.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/Qmd5gdFK17ycpDxj4C2bFigU4x2FECv7CxibzBUK2U3Uh2 ubuntu-13.10-server-amd64+mac.iso
+    https://gateway.btfs.io/btfs/QmbgDNceL7EsLmy6eJ2cgZD5mt7cfPFVgh26CojyihmyZH ubuntu-13.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmZiWDZr7JJVTZ2BUaQaQVKx3UVfdEgorEuMAbeYsan65Y ubuntu-13.10-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZ5fi23TZserczBMVxoJCU72pfDgDFQCmpm8zC1Y6Wheb ubuntu-14.04.1-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmWWSQefHtnMUQSHKVjF59JJYZywsB1WErMRkMCtKSHZgh ubuntu-14.04.1-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmfP6D2ECyCeCyWhV4HPyQityxXmoU9G21crCda8QzMtrp ubuntu-14.04.1-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmNWbA8LeA1FBgDgNb3QPwtb4Mvh2c7f8Q1v4xCmoSSr1Q ubuntu-14.04.1-server-i386.iso
+    https://gateway.btfs.io/btfs/Qmb2R5ornKokvNCiafeA4kE8TKhiTUWXhPKct5v3T5Gngs ubuntu-14.04.2-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmQa3i9xst8rUGP8epaPKDdpA4obWW8c2RnTprMfPVTi8k ubuntu-14.04.2-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmfVzvzYBo7TxNVBpq9Hx3BU9RCu8HhfsGMXqGsd4C7Y7t ubuntu-14.04.2-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmeL2rVFUZWkKa67JZD6o1kDgD143DnKfg4yLvDbRnKWn6 ubuntu-14.04.2-server-i386.iso
+    https://gateway.btfs.io/btfs/QmarC4yviCdfE6BKD1E5sYVc1Em8kCtPedvF3oQ1tpU8nz ubuntu-14.04.3-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmevBWbHrhCTUPqqLPi6RsY7KgDthNJgjar2mjijJcjbqQ ubuntu-14.04.3-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmbvtyUoxbhrbKVq36s4pkFJS6jUFU52tnQo7vjWKFD1iD ubuntu-14.04.3-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmTc9CgBkDDWkmFBMMwiAjByV2Ud96rXqykaBXiCXDzyL4 ubuntu-14.04.3-server-i386.iso
+    https://gateway.btfs.io/btfs/QmTZ5Nij38G6fLAnGE3GrRT6a55M7tHXnBCivdUQk3T7rz ubuntu-14.04.4-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmRCbDhRGwGX1LHKS1nEyVXzttSbX1cok3HyCxKfaRpevN ubuntu-14.04.4-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmYKbBRguF7sREDiDSrHGuK7TSEe5bjZt6co8Q3AHUEn9L ubuntu-14.04.4-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmXaGuAACu2hukLFXfoqswsQw8BxUEK8kUP1c2NBFHgtpi ubuntu-14.04.4-server-i386.iso
+    https://gateway.btfs.io/btfs/QmfT2tVkJn3siZBMLxFoUL3PQhEyqFSNdxkrsEj28scoLY ubuntu-14.04.5-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmWB1dPSarcrPzRmuYjz94wUpP4R5hk7aC6TzU1xH2kgsk ubuntu-14.04.5-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmSBactEdjcfp9Xp8tbyhTgDERxbP3TsApFoPWX13k4LkQ ubuntu-14.04.5-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmVmP56D5juYwLzvtCBDgduiwrimMqVdaVqZwL3d5ZVYwB ubuntu-14.04.5-server-i386.iso
+    https://gateway.btfs.io/btfs/Qmb9UUmXHGyJRs4FFfWwkvTCrMXvk6wCmxM515niDQjecr ubuntu-14.04.6-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmaoYEfn51CAtn1Hfa77sCyDwJwR7ipidRXo8qXzhan3By ubuntu-14.04.6-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmYLjPymQuUgj1JkQheDbKmuptyUfNxoo9HtauDVeCjZZR ubuntu-14.04.6-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmX3AqZTwfWh8mRwAr1ai3GeJtEYnG1UirVuJ35UDgx7Q7 ubuntu-14.04.6-server-i386.iso
+    https://gateway.btfs.io/btfs/QmbCAkCYEEduKSvzFqA2HMVq4tFLdcirbjMRHVBB8g6BFd ubuntu-16.04.6-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmQmXrH7XcWtdNFzuoLnTefzMWD9tTMBv47m46D3hE4PpC ubuntu-16.04.6-server-i386.iso
+    https://gateway.btfs.io/btfs/QmSb751u3PRREtEaEVnfhds8dLgXA4nPvHapGWVUa4Zzk5 ubuntu-16.04.7-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmNf6CgS31YnnuJ4BSTVYvRH8ieCCNrUwLGJKg7tFLgsfo ubuntu-16.04.7-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmXB1jGv6PFMxdFUTAbkXevyggBcQFvdLHDZyp2pdgwuxA ubuntu-18.04.6-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmPUfJmJnFN4YENUUtByzEh18HQVQYGMzxCybv7WhcRv4k ubuntu-18.04.6-live-server-amd64.iso
+    https://gateway.btfs.io/btfs/Qmapw7NSdqwzTpxqAFUGVMLbwyfEZ8AyFN13LiqjGin9xd ubuntu-20.04.3-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmVcF32M8aMNmq5evq2zQWzfgda42RvoVNobs4rSzonpzX ubuntu-20.04.3-live-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmNw52hkyuLeUTm6uSe3Ur9PCzDSnNwPPw5R1ZokLYGs85 ubuntu-21.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmUwuoSG9sxKm1hDwVbQ9ujc1rpFrbbgVcquewN9ka6LqK ubuntu-21.04-live-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmbS6j6747pLYzifBAJicxLF8ruUySPHfn2aW6oHSW3Msn ubuntu-21.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/Qmcjqx5W32ABEkTuBFvFXyaLGLAQQ8SE8wSfC9f3x36wKq ubuntu-21.10-live-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmPAsVPrMCQEeNZWtMEDtFwU7PTQCkHpfndFs79R54dp8B ubuntu-5.04-install-amd64.iso
+    https://gateway.btfs.io/btfs/QmQzn7m1DgoBBrR3aedgin4degwcTJFWCktXeiNhpUmpF8 ubuntu-5.04-install-i386.iso
+    https://gateway.btfs.io/btfs/QmNvyskqBGpaqDXfz2fa8dpVWSdjazRV8M9w3JzsB96D5d ubuntu-5.04-install-powerpc.iso
+    https://gateway.btfs.io/btfs/QmZ2JpxPNwUYd1DsbrQ5KNHHS3wZhhLA5LXJsmc2NxAESu ubuntu-5.04-live-amd64.iso
+    https://gateway.btfs.io/btfs/QmSbMch7aYck9GAF3Gqn8Y8t5f6ZdRCRgJR8kNjFJrsEKG ubuntu-5.04-live-i386.iso
+    https://gateway.btfs.io/btfs/QmfV8yDtBd2VrdhsCJmuwaYjEvoGbUKto8ZjyRT5dAyGn1 ubuntu-5.04-live-powerpc.iso
+    https://gateway.btfs.io/btfs/QmNqD8oZ7H33VetpBzYtMFhoSEADi3cPmkYCLpVrvyXLEW ubuntu-5.10-install-amd64.iso
+    https://gateway.btfs.io/btfs/QmWyfuoPiMb8bH4frBgeWJXK7whQjgFFN6tFkWpK1U1rve ubuntu-5.10-install-i386.iso
+    https://gateway.btfs.io/btfs/QmT7RyymHvHrLyeJ4EYyh9DM3gWvzP65DcpYTK8rWUy7Af ubuntu-5.10-install-powerpc.iso
+    https://gateway.btfs.io/btfs/QmQJvwTHKzLFZS9cY1NEej1RFyFqBMRNSfWBkUPubW4iG1 ubuntu-5.10-live-i386.iso
+    https://gateway.btfs.io/btfs/QmZYhVRHKP5ziMYG8iRTpMShWS4BUxdaWTakLqe2tUr9Lv ubuntu-5.10-live-powerpc.iso
+    https://gateway.btfs.io/btfs/QmPrdeWP1ti3oYQkYoaFhd4THzuMgWoDieWV7NSAWL3EjZ ubuntu-6.06.1-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmXiYgfraKbgnS1YPYbHkSw4ai7wzTd3L9BcJMzUmFoidw ubuntu-6.06.1-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmVaUrQd8oG13Jq8DbTGujU83RLVuUQjgtK5tD2MGVA2k3 ubuntu-6.06.1-alternate-powerpc.iso
+    https://gateway.btfs.io/btfs/QmV1sfGw1bSa6ifUqbsWwmWoCzJnKZR7HF5dgwHzubBTGo ubuntu-6.06.1-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmW5yMUpNLjV3mYZ5gmbNnAimeKRFRhCTRqeaQFpW9SBpd ubuntu-6.06.1-desktop-i386.iso
+    https://gateway.btfs.io/btfs/Qmc1ko9aXKUnEL7oVMQrUGtnMQP2Ra7j14mXpQVffAbpCk ubuntu-6.06.1-desktop-powerpc.iso
+    https://gateway.btfs.io/btfs/QmdYFttGFZpqXnzPVHnxNu2QJPb3yFZgzHAetidpcnoG13 ubuntu-6.06.1-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmdAvPYDfF23USZvmeTxphDKa9sTnN2eGbeAprtSVnNQWK ubuntu-6.06.1-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZr1htC4EKD9CV3Q8RHusJZ4c7VcujArAYfcpegx7x4J8 ubuntu-6.06.1-server-powerpc.iso
+    https://gateway.btfs.io/btfs/QmSZcYtTsmP9ANf5DN82ykBNuPxouWdA5E7PZWRnu18jdy ubuntu-6.06.1-server-sparc.iso
+    https://gateway.btfs.io/btfs/QmT8yr7FSKLW2yjGVNiWQwP2bDw8EhciEk8okNo569kCnD ubuntu-6.06.2-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmQ3D1CeqQYuP4tsEGuaae3nDu7y1NYQq8UkSYuBJfLtCZ ubuntu-6.06.2-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZDx6ZBySPvBeBNc2EkgytgXhVEHZFdR3dCT36bKSuNSs ubuntu-6.06.2-server-powerpc.iso
+    https://gateway.btfs.io/btfs/QmXRwUP7d4zJTH7Eq1NUNFaujg8CunU9mc8nXW8CweD4jg ubuntu-6.06.2-server-sparc.iso
+    https://gateway.btfs.io/btfs/QmWwoPuK5nugq2zpNhPN6eJHHRA8eSyrHhgpKJRXSsbq9G ubuntu-6.10-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmWaXiTw5ssNMx499tBVknmA3Aw3ighXnVprF33jmtQXmk ubuntu-6.10-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmPu4dTkzz2PtkXCuEEbHASy3bsvk9Y6Vg8oExapgBgdFY ubuntu-6.10-alternate-powerpc.iso
+    https://gateway.btfs.io/btfs/QmXyMxNt9S2UeaTXxEz1Tf272GcYZZRR63VBL6N2oxkuEh ubuntu-6.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmZTEBHkyqiDZiVmnhnFcLeWAYEB9qakggzceFG8LsrLSG ubuntu-6.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmZ9tKFDpQxWGaikDhzgF6zUoWHwExovdosDdz1oroW46g ubuntu-6.10-desktop-powerpc.iso
+    https://gateway.btfs.io/btfs/QmdGJcPSYfdhedaEkB4Gxm9heRVkmJnJTYxSc64Ywo4zUY ubuntu-6.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmYDrZV1mU4GrtjbK5LuHmrc4u5uGb33Jj8GQmWMZnhaMD ubuntu-6.10-server-i386.iso
+    https://gateway.btfs.io/btfs/QmdxiEmaTdkh1ozPVPaei57pGLAPZz3tACDVHjkwEnnkGH ubuntu-6.10-server-powerpc.iso
+    https://gateway.btfs.io/btfs/Qme8MNpbGLMWaSvaJFb2pA8kZgp1rJJNbLKXSgNvEXfcFi ubuntu-6.10-server-sparc.iso
+    https://gateway.btfs.io/btfs/QmNywzNTFKZ4Ei5hiyHmi1Sp187pH2x97uBNPgfLCVyxzk ubuntu-7.04-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmSB3scya1YYSBTa2yLUjaoM49pLVYm1nTDYWnWJJJda9Q ubuntu-7.04-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmckUZh46Y8mAY3f9xGpVuruvsbLUNXcRf6GwQ6CCYbKCC ubuntu-7.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmR73pqvDVgJxBQ6CVuEiXwZfJNWCznh98GwCvGRnKafxe ubuntu-7.04-desktop-i386.iso
+    https://gateway.btfs.io/btfs/Qmea6jiUTZDYbtH6QmoYd6gdb9Bfak83D6LgDtwgvGoj8v ubuntu-7.04-server-amd64.iso
+    https://gateway.btfs.io/btfs/Qmd7d65oawwaZDfKrjjbhPe5vKfVqmzoikBTy3HnB7PY8A ubuntu-7.04-server-i386.iso
+    https://gateway.btfs.io/btfs/QmTuvuAFqwP5rAKkPtEu8xkb4w77Lu2axvTQ5VzrxeDj7q ubuntu-7.04-server-sparc.iso
+    https://gateway.btfs.io/btfs/QmNzRFEYZg5xvEkGdYVUbwz1Mk7QTKRDDjYqYqzCwsEUtp ubuntu-7.10-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmXW6aND3VYhiwPHkoYKNz4dRYwxV3ez2BaFWmZJwcjTQU ubuntu-7.10-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmWkk1MJ27F4mu7ZiTMUFWetNRizNuXFZKuRzvToFLR4P7 ubuntu-7.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmUbxLLx9uJ3spDysaFqxSbCL4jsbsuRM7yutjUaiAyUbP ubuntu-7.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmQvjwcWzCYsZaMGEM8faJcGVoRbpcBaxoY5zxY6SxwCgh ubuntu-7.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmatAGo2EyDjfsiiC7rztzqBozwsMJEMNgaduoVoFwGjzA ubuntu-7.10-server-i386.iso
+    https://gateway.btfs.io/btfs/QmXpdRGYsPsrN9HFZqhWcFaPZB8AycLwzP3DzeQwuth2gL ubuntu-7.10-server-sparc.iso
+    https://gateway.btfs.io/btfs/QmbwgGiMDpbFt7cBjV4Uw3mZ8MRUDmx2i8RJhQSGUVbhYk ubuntu-8.04.1-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmXuWCQ9JH6ab2QCKVpbmVafMt19FhzHhjBPsFfGLRBzqu ubuntu-8.04.1-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmYaToyjHpPDJp2SvWBh1AEUYBz7NncyVEehzF93A1RTPk ubuntu-8.04.1-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmegxgM9AzYWZBC7DWKNVxCD3eyewstWWDA8myZSJizE4u ubuntu-8.04.1-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmRfF274G5us7iG47yCsno9QrbuybKm5DyqgRp1xdVxmUC ubuntu-8.04.1-server-i386.iso
+    https://gateway.btfs.io/btfs/QmTub6w9oFfuT5thqiETUnuMZg5DCbkVunjbr6Ub4YAwqj ubuntu-8.04.4-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmaX8Mv1jk83kMwFkUUrriQqdWKefsvxJinbFiZfxBErnT ubuntu-8.04.4-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmPtTBHwxBPvQoR2N5c39UvK4cjnknJDiF53qcu86VWL5Z ubuntu-8.04.4-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmYNTt1DVMfPEqFWAXJPrFZE5vkjGw7xiPUTLuW9Sqekyp ubuntu-8.04.4-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmU7VHReiEyyGWnmzvQKAFUSBe6U82ViqZPsJRnLubJxyp ubuntu-8.04.4-server-i386.iso
+    https://gateway.btfs.io/btfs/QmZm4E9hpH7GRCxQk48jUq7kLxZyYHN4d8a4bNsvTiKpiZ ubuntu-8.10-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmZVy9EC1ex1UpsjoPzBgftvpLNLwjv8DYP5aFK5Pij8To ubuntu-8.10-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmUpAG5fVPWsb2vLCfVUoZfWgLNHTbZUsiPndqWazNVa3g ubuntu-8.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmcF7kS4moXARopgJaYkREhqfSseoQueXX1XK3dAAdDfiK ubuntu-8.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmTirwjRVMqQfpzukSYg1TobA25N7ZNcMh7ZhPY69HFw3w ubuntu-8.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmWCGzyVmBqp8qXqn4aMp5Q2TYZEgTzJhu7rCg43DefHEJ ubuntu-8.10-server-i386.iso
+    https://gateway.btfs.io/btfs/QmYuSiC9kjwjBCbdRpFkEnjDPSKXL26VJj9D95ruAh3Mt3 ubuntu-9.04-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmZ5pozqjir1yrWuQ2cVV4MA8GNMg5YRUoJzymLkBh98vE ubuntu-9.04-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmbgnWNqGKgnyN8kTiF4cjek3qZVAoLK8hDwRLtLe29pEw ubuntu-9.04-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/QmQjWyc1z6ro4oVunRZ7cCa1cNzQXo3xYQeYs6pQe5HrW1 ubuntu-9.04-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmQWAfENpbbyDriuciXoBwDMR2id9S4aBuTEjX761kFuwA ubuntu-9.04-server-amd64.iso
+    https://gateway.btfs.io/btfs/QmbdeWKo4dTzXXEJAFF6s6ng5XnzHcHB5oUtDtxRbUTdBy ubuntu-9.04-server-i386.iso
+    https://gateway.btfs.io/btfs/QmXAueQSfyWQx9eLwZJFGn22GouWVh7CJj73QprYQQjRKe ubuntu-9.10-alternate-amd64.iso
+    https://gateway.btfs.io/btfs/QmPY9AB1R8G1wR5vsJpYWNgSp66mDR2MTW4nceLWrkHjmY ubuntu-9.10-alternate-i386.iso
+    https://gateway.btfs.io/btfs/QmQcfp6uHE1a9nJLytwr5jjjzw5hvhovWpoh6Jn2dXP2n9 ubuntu-9.10-desktop-amd64.iso
+    https://gateway.btfs.io/btfs/Qmbmmc1rTT6Kq7NY4P4jC7HTur5JR9fNSVnkkW4mnZrncm ubuntu-9.10-desktop-i386.iso
+    https://gateway.btfs.io/btfs/QmbHGG1su8qutZqoqhZSVpXkezxT3Jg8cWUviWPkxrpZDi ubuntu-9.10-netbook-remix-i386.iso
+    https://gateway.btfs.io/btfs/QmT4L83KSnh6JnaCqNVHHwKNowNrWsGfeek5Tars6eg2gY ubuntu-9.10-server-amd64.iso
+    https://gateway.btfs.io/btfs/Qme1uKkHQwJmqe1y6xvwmvwyVTvjmDxhposcmk6uZPCdWy ubuntu-9.10-server-i386.iso
 
 
 
-# **AIX:**
+# AIX:
 
     https://gateway.btfs.io/btfs/QmYP9haSgciLBNG3R9vgG9XdF6ppS9XF9jg3WG358cqZz4 IBM.AIX.v6.1-SHOCKiSO-DVD1.iso
     https://gateway.btfs.io/btfs/QmNVZDikhWwr1vCyDkK5oo7n85EPjHUjHiy4irkmpF34rA IBM.AIX.v6.1-SHOCKiSO-DVD2.iso
@@ -340,7 +560,7 @@ This is a list of BTFS links to archived Unix and Linux ISO images.
 
 
 
-# **MISC:**
+# MISC:
 
     https://gateway.btfs.io/btfs/QmcMJbefvLQE969Y75SRSnGyphgftrEWDZUWLg6BCwRFkc smartos-latest.iso
     https://gateway.btfs.io/btfs/QmVWN1fiRD1WQ2EaqCUTnQre9TMBjQfsSvLZ2FwjUjXe4U super_grub2_disk_hybrid_2.02s9.iso
@@ -348,5 +568,6 @@ This is a list of BTFS links to archived Unix and Linux ISO images.
     https://gateway.btfs.io/btfs/QmdqnWJuTntbwfHo1APhqw2QZCMAhf7g6nZvAam9pYVRUR bt3-final.iso
     https://gateway.btfs.io/btfs/QmXrZUBdtUFLqLCzieoc2iqz6QfAejTmdDiPfTKRPFF3yV gparted-live-0.30.0-1-i686.iso
     https://gateway.btfs.io/btfs/QmRydzuwV38c4xg4o3B6UubSpNT8f35brCEDuxLqbgPtGo rescatux-0.51b3.iso
+
 
 
