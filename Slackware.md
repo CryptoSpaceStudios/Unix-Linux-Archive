@@ -1,3 +1,4 @@
+# Slackware / Slackware 64 Archive 
 	http://gateway.btfs.io/btfs/dQSh8W3hsMYudeEDjgjmRTRBz3e8XN1Mqxk8NbCSBUp1 619192320  slackware-13.1-install-d1.iso
 	http://gateway.btfs.io/btfs/f97d6oNTNpfY5msSdcZPuBH4KKrJcT5f8ozvGPQWY411 704888832  slackware-13.1-install-d2.iso
 	http://gateway.btfs.io/btfs/cJn6kvJKo1M1GwQJNqFZJRtQK23rhwsRFDNn7qW4JaXd 679997440  slackware-13.1-install-d3.iso
