@@ -1,5 +1,6 @@
 # LinuxMint Archive
 
+### Please Be patient with the links.  They are on a decentralized filesystem and sometimes they may take a bit to load. :D
 
 <a href="http://gateway.btfs.io/btfs/QmX76yxFrhzwm7mraiWizjkYGJZHDYq6ASjLEbygNduCza" target="_blank">	LinuxMint-7-KDE.iso</a>
 
