@@ -5,7 +5,7 @@
 
 
 
-	# Linux Mint Archive
+# Linux Mint Archive
 <a href='https://gateway.btfs.io/btfs/Qma5WW8ukWc8HVyHaYxmzk5AyKpBA9GWCf28i9rUJsXAdi'> Linux Mint Directory on BTFS</a>
 
 <a href='https://gateway.btfs.io/btfs/QmX76yxFrhzwm7mraiWizjkYGJZHDYq6ASjLEbygNduCza'> linuxmint-7-KDE.iso</a>
@@ -521,27 +521,3 @@
 <a href='https://gateway.btfs.io/btfs/Qmd6XXAQw7TEojyxfkx9p28YpsT578L94AtJVuRH2EYGA3'> lmde-4-cinnamon-32bit.iso</a>
 
 <a href='https://gateway.btfs.io/btfs/QmRMzpBcJuvkmeTx3vR37dEght3BHLje7e5MHHBF4ThnFV'> lmde-4-cinnamon-64bit.iso</a>
-
-
-
-# AIX:
-    https://gateway.btfs.io/btfs/QmYP9haSgciLBNG3R9vgG9XdF6ppS9XF9jg3WG358cqZz4 IBM.AIX.v6.1-SHOCKiSO-DVD1.iso
-    https://gateway.btfs.io/btfs/QmNVZDikhWwr1vCyDkK5oo7n85EPjHUjHiy4irkmpF34rA IBM.AIX.v6.1-SHOCKiSO-DVD2.iso
-    https://gateway.btfs.io/btfs/QmRpxQD9dvUdzFNdy9wtLNirk1K9Ycwio2msAJWeGRjLit Ibm_AIX_6.1
-
-    https://gateway.btfs.io/btfs/QmNPooDZWgizBKv9j9vaLJqZ9ihgXe9BfTqak3eV5jtCy5 AIX.txt
-    https://gateway.btfs.io/btfs/QmYn4o6yZ6FV32BiKzCxAEqEeNiEECve3t2qorYR6n7vRz AIX61EXP_11_2007.iso
-    https://gateway.btfs.io/btfs/QmaH6LxVzhngdfQrmAQpWuYH2zpFNk7j8S9T5cLXSJkGzC AIX61disk1_12_2007.iso
-    https://gateway.btfs.io/btfs/QmPjv8MUeF5ik42DHaJDvwkVVwBcSkRns9EjfKvHKncF4G AIX61disk2_12_2007.iso
-    https://gateway.btfs.io/btfs/QmSLxYP77CqegsXL41DEJXWwox4JWBdDv6FpQBjX3sdBkM AIX_5L_System_Administration_Student_Book.PDF
-    https://gateway.btfs.io/btfs/QmWXGTeunav8rv46NmAHBUtwiaXaCYBUQfjUmajxJDEiv9 VIOS_1.5.2EXP_11_2007.iso
-    https://gateway.btfs.io/btfs/QmPK16wfi6C15dyr31HFJzURy4HPeSA2yAmhMmHfNwBmVs VIOS_1.5.2_4_2008.iso
-    https://gateway.btfs.io/btfs/QmdH1oYnMLw4uWeed2CtS5dCDtJkoc9RpxRodZoWgis5Ga IBM_AIX6.1
-
-# MISC:
-    https://gateway.btfs.io/btfs/QmcMJbefvLQE969Y75SRSnGyphgftrEWDZUWLg6BCwRFkc smartos-latest.iso
-    https://gateway.btfs.io/btfs/QmVWN1fiRD1WQ2EaqCUTnQre9TMBjQfsSvLZ2FwjUjXe4U super_grub2_disk_hybrid_2.02s9.iso
-    https://gateway.btfs.io/btfs/QmQb7ZEqRc9AKbB19d6yuJPdgpm3oEhbipXLP23Y3u8Bdp Snow_Leopard_10.6.1-10.6.2_SSE2_SSE3_Intel_AMD_by_Hazard.iso
-    https://gateway.btfs.io/btfs/QmdqnWJuTntbwfHo1APhqw2QZCMAhf7g6nZvAam9pYVRUR bt3-final.iso
-    https://gateway.btfs.io/btfs/QmXrZUBdtUFLqLCzieoc2iqz6QfAejTmdDiPfTKRPFF3yV gparted-live-0.30.0-1-i686.iso
-    https://gateway.btfs.io/btfs/QmRydzuwV38c4xg4o3B6UubSpNT8f35brCEDuxLqbgPtGo rescatux-0.51b3.iso
