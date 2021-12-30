@@ -9,7 +9,7 @@
 
 
 # Linux Mint Archive
-https://gateway.btfs.io/btfs/Qma5WW8ukWc8HVyHaYxmzk5AyKpBA9GWCf28i9rUJsXAdi?filename=Linux Mint Directory on BTFS
+<a href='https://gateway.btfs.io/btfs/Qma5WW8ukWc8HVyHaYxmzk5AyKpBA9GWCf28i9rUJsXAdi' target='_blank'>Linux Mint Directory on BTFS</a>
 
 https://gateway.btfs.io/btfs/QmX76yxFrhzwm7mraiWizjkYGJZHDYq6ASjLEbygNduCza?filename=linuxmint-7-KDE.iso
 
