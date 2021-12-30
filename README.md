@@ -1,6 +1,6 @@
 # Unix-Linux-Archive
 
-# Unix and Linux ISO images archive hosted on <a href='https://btfs.io'>BTFS
+## Unix and Linux ISO images archive hosted on <a href='https://btfs.io'>BTFS
 
 ### Hosted by <a href="https://cryptospacestudios.com" target="_blank">CryptoSpaceStudios
 
@@ -8,7 +8,7 @@
 
 
 
-# Linux Mint Archive
+### Linux Mint Archive
 <a href='https://gateway.btfs.io/btfs/Qma5WW8ukWc8HVyHaYxmzk5AyKpBA9GWCf28i9rUJsXAdi' target='_blank'>Linux Mint Directory on BTFS</a>
 
 https://gateway.btfs.io/btfs/QmX76yxFrhzwm7mraiWizjkYGJZHDYq6ASjLEbygNduCza?filename=linuxmint-7-KDE.iso
