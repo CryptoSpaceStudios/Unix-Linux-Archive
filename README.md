@@ -1,7 +1,7 @@
 # Unix-Linux-Archive
 
 ##  Unix and Linux ISO images archive hosted on
-<a href='https://btfs.io' 'target='_blank' rel='noreferrer'>BTFS</a>
+<a href='https://btfs.io'>BTFS</a>
 ### Hosted by <a href="https://cryptospacestudios.com" target="_blank">CryptoSpaceStudios</a>
 
 
